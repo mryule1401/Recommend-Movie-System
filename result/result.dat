@@ -1,0 +1,3 @@
+Dataset Name:100K,Model:KNN-User-User,K:30,Size:9430,RMSE:0.9779582240905521
+Dataset Name:100K,Model:KNN-Item-Item,K:30,Size:9430,RMSE:0.9678608307383264
+Dataset Name:100K,Model:ridge regression,Size:9430,RMSE:1.0245214253474166
